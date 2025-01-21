@@ -20,7 +20,7 @@ This chatbot is a small step towards creating awareness and addressing these iss
 
 ---
 
-P.S.: This chatbot is a part of a larger initiative aimed at improving women's menstrual health by addressing knowledge gaps, breaking stigmas, and promoting healthy diet practices.
+P.S.: This chatbot is a part of my larger initiative aimed at improving women's menstrual health by addressing knowledge gaps, breaking stigmas, and promoting healthy diet practices.
 
 
 
